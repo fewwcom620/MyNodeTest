@@ -1,0 +1,23 @@
+{
+  "name": "mynodetest",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fewwcom620/MyNodeTest.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "fewwcom620",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fewwcom620/MyNodeTest/issues"
+  },
+  "homepage": "https://github.com/fewwcom620/MyNodeTest#readme"
+}
